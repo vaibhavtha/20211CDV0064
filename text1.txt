@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //My first text doc.
 // Java program for the above approach
 
@@ -34,3 +35,7 @@ class GFG {
 		Fibonacci(N);
 	}
 }
+=======
+My first text doc. 
+ 
+>>>>>>> c1780d9d530e14fcc1c1feec6eac42a219ebabca
